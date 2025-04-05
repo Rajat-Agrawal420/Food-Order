@@ -17,6 +17,7 @@ use App\Models\Order;
 class Vegyfood extends Controller
 {
     //
+    ////
 
     function index($id)
     {
